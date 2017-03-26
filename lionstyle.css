@@ -1,0 +1,57 @@
+head {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+nav {
+    width: 900px;
+    height: 70px;
+    margin: auto;
+    background-color: grey;
+}
+h1 {
+    font-family: Impact;
+    font-size: 30px;
+}
+header {
+    background-image: url('child-2125964_1280.jpg');
+    width: 900px;
+    height: 500px;
+    margin: auto;
+}
+
+.container {
+    font-family: Impact;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 120px;
+    word-spacing: 5px;
+}    
+
+section {
+    width: 900px;
+    height: 500px;
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+}
+
+article {
+    background-image: url('building-2051676_640.jpg');
+    width: 250px;
+    height: 300px;
+    display: inline-block;
+    background-position: center;
+}
+
+footer {
+    background-color: grey;
+    width: 900px;
+    height: 30px;
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+    font-family: Impact;
+    font-size: 30px;
+}
